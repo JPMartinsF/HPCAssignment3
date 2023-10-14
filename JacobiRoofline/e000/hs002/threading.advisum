@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY_EX" >
+  <hotspot filename="C:\Users\JPMar\OneDrive\Documentos\Faculdade\Computação de Alto Desempenho\Trabalho 3\jacobi.c"
+           line_no="87"
+           routine="main"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="2.282005E+00"
+           trip_counts=""
+           func_instance="25"
+           priority="0"/>
+  <hotspot filename="C:\Users\JPMar\OneDrive\Documentos\Faculdade\Computação de Alto Desempenho\Trabalho 3\jacobi.c"
+           line_no="105"
+           routine="main"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="2.282005E+00"
+           trip_counts=""
+           func_instance="24"
+           priority="0"/>
+  <hotspot filename="C:\Users\JPMar\OneDrive\Documentos\Faculdade\Computação de Alto Desempenho\Trabalho 3\jacobi.c"
+           line_no="59"
+           routine="run"
+           is_vectorized="1"
+           self_time="2.220386E+00"
+           total_time="2.220386E+00"
+           trip_counts=""
+           func_instance="28"
+           priority="0"/>
+  <hotspot filename="C:\Users\JPMar\OneDrive\Documentos\Faculdade\Computação de Alto Desempenho\Trabalho 3\jacobi.c"
+           line_no="108"
+           routine="main"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="1.217483E-02"
+           trip_counts=""
+           func_instance="11"
+           priority="0"/>
+  <hotspot filename="C:\Users\JPMar\OneDrive\Documentos\Faculdade\Computação de Alto Desempenho\Trabalho 3\jacobi.c"
+           line_no="105"
+           routine="main"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="1.217483E-02"
+           trip_counts=""
+           func_instance="13"
+           priority="0"/>
+</IntelParallelAdvisorSummary >
